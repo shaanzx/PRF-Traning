@@ -1,9 +1,9 @@
-package lk.ijse;
+package lk.ijse.Switch;
 
 import java.util.Scanner;
 
 //Switch expression
-public class Main {
+public class Switch {
     public static void main(String[] args) {
         //Run time expression
         Scanner Input = new Scanner(System.in);
